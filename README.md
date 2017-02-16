@@ -3,10 +3,17 @@ This is a simple responsive MVC chatroom application
 
 MySQL + PHP CodeIgniter + Bootstrap + AngularJs
 
-It was the first application I try to wrote when I was self-learning PHP
+It was the first application I wrote when I was self-learning PHP
 
 
 ## Demo
+
+![demo1](https://cloud.githubusercontent.com/assets/10897048/23029245/cdc64568-f4a4-11e6-94a9-b3ed117bc4b7.gif)
+
+
+### Login page
+
+![login](https://cloud.githubusercontent.com/assets/10897048/23028445/4efb856a-f4a2-11e6-9c67-e9320e1bea00.png)
 
 ### Chatroom main page
 
@@ -14,7 +21,7 @@ It was the first application I try to wrote when I was self-learning PHP
 
 ### Admin panel
 
-![screenshot_3](https://cloud.githubusercontent.com/assets/10897048/23028338/0930129e-f4a2-11e6-8916-8eb299f4b01a.png)
+![admin](https://cloud.githubusercontent.com/assets/10897048/23028338/0930129e-f4a2-11e6-8916-8eb299f4b01a.png)
 
 
 
