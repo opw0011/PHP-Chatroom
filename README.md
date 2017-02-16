@@ -5,11 +5,15 @@ MySQL + PHP CodeIgniter + Bootstrap + AngularJs
 
 It was the first application I wrote when I was self-learning PHP
 
-
 ## Demo
+
+### Leave a message
 
 ![demo1](https://cloud.githubusercontent.com/assets/10897048/23029245/cdc64568-f4a4-11e6-94a9-b3ed117bc4b7.gif)
 
+### Edit and delete a message
+
+![demo2](https://cloud.githubusercontent.com/assets/10897048/23029908/012517f2-f4a7-11e6-99ae-b72ad386c4e5.gif)
 
 ### Login page
 
